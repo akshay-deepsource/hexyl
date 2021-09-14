@@ -4,3 +4,6 @@ version = 1
 [[analyzers]]
 name = "rust"
 enabled = true
+
+  [analyzers.meta]
+  edition = "Edition2018"
